@@ -1,5 +1,5 @@
 ### UPDATE
-26/11/23: I'm giving up on this shit to make models, edit them and whatnot. It's too resource consuming and my pc doesn't give for it. AutoCAD constantly freezes and shit, I'm tired. Unless I get an M3 Max (so a beefy af Mac), I'm not continuing on this bs. If you wanna continue making them, feel free to do so, and I wish you the best of luck 🫡
+26/11/23: I'm (@2021030063) giving up on this shit to make models, edit them and whatnot. It's too resource consuming and my pc doesn't give for it. AutoCAD constantly freezes and shit, I'm tired. Unless I get an M3 Max (so a beefy af Mac), I'm not continuing on this bs. If you wanna continue making them, feel free to do so, and I wish you the best of luck 🫡
 I'll still keep on updating this repo however, since @Oliasaew doesn't do such a thing :)))))
 
 # 3D Stuff!
